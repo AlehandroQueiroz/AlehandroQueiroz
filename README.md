@@ -1,7 +1,7 @@
 # Alehandro
 
 - 👋 Olá, I’m @AlehandroQueiroz
-- 👀 Atualemnte estou estudando React.JS, e SQL
+- 👀 Atualemnte estou estudando React.JS, PHP, e SQL
 - 🌱 Atualemnte sou estudante de Sistemas de Informação, e tenho conhecimentos em HTML, e CSS
 - 💞️ Estou colaborando em um Projeto pessoal
 - 📫 Meu contato é alehandroqueiroz.13@gmail.com
