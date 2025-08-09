@@ -1,10 +1,9 @@
 # Alehandro
 
-- 👋 Olá, I’m @AlehandroQueiroz
-- 👀 Atualemnte estou estudando React.JS, PHP, e SQL
-- 🌱 Atualemnte sou estudante de Sistemas de Informação, e tenho conhecimentos em HTML, e CSS
-- 💞️ Estou colaborando em um Projeto pessoal
-- 📫 Meu contato é alehandroqueiroz.13@gmail.com
+- 👋 Hello! I’m @AlehandroQueiroz
+- 👀 Dev FluterFlow (Front-end); Bubble.io.
+- 🌱 Bachelor’s Degree in Information Systems
+- 📫 Contact: alehandroqueiroz.13@gmail.com
 
 <!---
 AlehandroQueiroz/AlehandroQueiroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
